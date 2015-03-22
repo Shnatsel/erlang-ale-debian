@@ -1,0 +1,18 @@
+Source: erlang-gen-leader
+Section: devel
+Priority: extra
+Maintainer: Aleksey Morarash <aleksey.morarash@envisionx.co>
+Build-Depends: debhelper (>= 8.0.0), rebar
+Standards-Version: 3.9.3
+Homepage: https://github.com/garret-smith/gen_leader_revival/
+
+Package: erlang-gen-leader
+Architecture: all
+Depends: erlang-base
+Description: Implements a leader election behavior modeled after gen_server.
+ This is a project to revive and modernize the gen_leader library.
+ Numerous versions of this project exist, developed by disparate
+ groups with different aims. By collecting and integrating these
+ we hope to provide a new standard-library-quality module for the
+ Erlang runtime that provides leader-election functionality without
+ many of the difficulties traditionally associated with such.

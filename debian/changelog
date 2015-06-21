@@ -1,3 +1,9 @@
+erlang-gen-leader (1.0-1) unstable; urgency=low
+
+  * Release for Debian Jessie.
+
+ -- Aleksey Morarash <aleksey.morarash@envisionx.co>  Sun, 21 Jun 2015 19:16:00 +0300
+
 erlang-gen-leader (1.0) unstable; urgency=low
 
   * Initial release for Debian.

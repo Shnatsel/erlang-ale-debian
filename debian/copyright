@@ -1,7 +1,8 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: gen_leader_revival
 
-Files: *
+Files: debian/*
 Copyright: 2015, Andrew Thompson <andrew@hijacked.us>
+           2016, Sergey "Shnatsel" Davidoff <sdavydov@kmlab.su>
 
 License: Public Domain
